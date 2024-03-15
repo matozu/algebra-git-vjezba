@@ -1,1 +1,3 @@
-console.log("ipak je bitno")
+function buttonClick(event) {
+  alert("button clicked");
+}
